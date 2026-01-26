@@ -25,10 +25,11 @@ IT Student, IT Help Desk specialist and a Cybersecurity Enthusiast
 
 <h2>📚 Certifications</h2>
 
-- CompTIA Security+  
-- Microsoft Azure Fundamentals (AZ-900)  
-- Microsoft Security, Compliance, and Identity Fundamentals  
-- Google Cybersecurity Professional Certificate  
+- [CompTIA Security+](https://www.credly.com/go/5B3qn5Rm88JPfdWgDSoR5w)
+- [Microsoft Azure Fundamentals (AZ-900)](https://learn.microsoft.com/api/credentials/share/en-us/HadiShaikh-0130/59457A7DD2B6BB91?sharingId=5B6A46AA8EDBFF7A) 
+- [Microsoft Security, Compliance, and Identity Fundamentals(SC-900)](https://learn.microsoft.com/api/credentials/share/en-us/HadiShaikh-0130/EC3B8D162C9EEE3A?sharingId)
+- [CompTIA TestOut IT Fundamentals Pro](https://certification.testout.com/verifycert/6-2C6-VKVXBM)
+- [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/certificate/PMUNPX82BBZF) 
  
 
 <h2>🤳 Connect with me:</h2>
