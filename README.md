@@ -1,5 +1,5 @@
 <h1>Hi, I'm Hadi! <br/>
-IT Student, IT Help Desk specialist and a Cybersecurity Enthusiast, 
+IT Student, IT Help Desk specialist and a Cybersecurity Enthusiast
 </h1>
 
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
