@@ -9,7 +9,7 @@ IT Student, IT Help Desk specialist and a Cybersecurity Enthusiast
   - Tools used: Wireshark, PEStudio, VirusTotal  
   - Analyzed real malware samples, including WannaCry ransomware
 
-- <b>- [Malware Analysis](https://github.com/Hshaikh3/Windows-Domain-and-Active-Directory-)
+- <b>- [Windows Domain and Active Directory](https://github.com/Hshaikh3/Windows-Domain-and-Active-Directory-)
   - Deployed a Windows Server domain environment with AD DS and DNS  
   - Created Organizational Units and managed users with Group Policy
 
