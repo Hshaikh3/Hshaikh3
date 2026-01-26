@@ -29,14 +29,7 @@ IT Student, IT Help Desk specialist and a Cybersecurity Enthusiast,
 - Microsoft Azure Fundamentals (AZ-900)  
 - Microsoft Security, Compliance, and Identity Fundamentals  
 - Google Cybersecurity Professional Certificate  
-
-<h2>🛠️ Skills & Tools</h2>
-
-- Operating Systems: Windows, Linux (Kali)  
-- Security Tools: Wireshark, Splunk, VirusTotal, PEStudio  
-- Identity & Access: Microsoft Entra ID, Active Directory  
-- Virtualization: VirtualBox, VMware  
-- Scripting & Languages: Python, PowerShell, Bash, SQL  
+ 
 
 <h2>🤳 Connect with me:</h2>
 
