@@ -4,7 +4,7 @@ IT Student, IT Help Desk specialist and a Cybersecurity Enthusiast
 
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
-- <b>Malware Analysis Lab (FLARE VM & REMnux)</b>
+- <b>[Malware Analysis Lab] (https://github.com/Hshaikh3/Malware-analysis/blob/main/README.md)</b>
   - Built an isolated malware analysis lab using VirtualBox to safely analyze Windows malware and monitor network traffic  
   - Tools used: Wireshark, PEStudio, VirusTotal  
   - Analyzed real malware samples, including WannaCry ransomware
