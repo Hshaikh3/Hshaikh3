@@ -14,12 +14,14 @@ IT Student, IT Help Desk specialist and a Cybersecurity Enthusiast,
   - Created Organizational Units and managed users with Group Policy
 
 - <b>Networking & Traffic Analysis</b>
-  - Used Wireshark to analyze network traffic and identify suspicious behavior  
-  - Built and troubleshot basic networks using Cisco Packet Tracer
+   -Built virtual network infrastructure in VirtualBox
+   -Deployed pfSense firewalls and configured Snort IDS
+   -Analyzed network traffic with Wireshark to identify vulnerabilities and threats
 
-- <b>Security Labs & Hands-On Practice</b>
-  - Completed labs through Hack The Box and Hack@UCF  
-  - Focused on security fundamentals, access control, and incident response concepts
+- <b>Wazuh SIEM</b>
+  - Built a cloud-based SIEM lab simulating SOC workflows  
+  - Connected Windows and Linux agents for centralized monitoring
+  - Configured FIM, vulnerability scanning, and custom alerts
 
 <h2>📚 Certifications</h2>
 
