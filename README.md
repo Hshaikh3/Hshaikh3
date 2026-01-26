@@ -14,9 +14,9 @@ IT Student, IT Help Desk specialist and a Cybersecurity Enthusiast,
   - Created Organizational Units and managed users with Group Policy
 
 - <b>Networking & Traffic Analysis</b>
-   -Built virtual network infrastructure in VirtualBox
-   -Deployed pfSense firewalls and configured Snort IDS
-   -Analyzed network traffic with Wireshark to identify vulnerabilities and threats
+  - Built virtual network infrastructure in VirtualBox  
+  - Deployed pfSense firewalls and configured Snort IDS
+  - Analyzed network traffic with Wireshark to identify vulnerabilities and threats
 
 - <b>Wazuh SIEM</b>
   - Built a cloud-based SIEM lab simulating SOC workflows  
