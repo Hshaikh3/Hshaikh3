@@ -1,27 +1,23 @@
 <h1>Hi, I'm Hadi! <br/>
 IT Student, IT Help Desk specialist and a Cybersecurity Enthusiast
+  
 </h1>
 
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
+- <b>- IT Help Desk at House Call MDs
+- <b>- IT Operations and Infrastructure Intern at Hensel Phelps
+- <b>- Sales Representative at Waterford Jewelers
+- <b>- Shift Leader at Dunkin Donuts
+
+    
+<h2>👨‍💻 Cybersecurity & IT Projects:</h2>
+
+- <b>- [Wazuh SIEM](https://github.com/Hshaikh3/WazuhSiemSetup)
 - <b>- [Malware Analysis](https://github.com/Hshaikh3/Malware-analysis/blob/main/README.md)
-  - Built an isolated malware analysis lab using VirtualBox to safely analyze Windows malware and monitor network traffic  
-  - Tools used: Wireshark, PEStudio, VirusTotal  
-  - Analyzed real malware samples, including WannaCry ransomware
-
 - <b>- [Windows Domain and Active Directory](https://github.com/Hshaikh3/Windows-Domain-and-Active-Directory-)
-  - Deployed a Windows Server domain environment with AD DS and DNS  
-  - Created Organizational Units and managed users with Group Policy
-
-- <b>Networking & Traffic Analysis</b>
-  - Built virtual network infrastructure in VirtualBox  
-  - Deployed pfSense firewalls and configured Snort IDS
-  - Analyzed network traffic with Wireshark to identify vulnerabilities and threats
-
-- <b>Wazuh SIEM</b>
-  - Built a cloud-based SIEM lab simulating SOC workflows  
-  - Connected Windows and Linux agents for centralized monitoring
-  - Configured FIM, vulnerability scanning, and custom alerts
+- <b>- Networking & Traffic Analysis</b>
+  
 
 <h2>📚 Certifications</h2>
 
