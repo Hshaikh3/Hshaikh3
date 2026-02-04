@@ -5,7 +5,7 @@ IT Student, IT Help Desk specialist and a Cybersecurity Enthusiast
 
 <h2>👨‍💻 Cybersecurity & IT Projects:</h2>
 
-- <b>- IT Help Desk at House Call MDs
+- <b>- [IT Help Desk at House Call MDs](https://github.com/Hshaikh3/House-call-MDs-)
 - <b>- IT Operations and Infrastructure Intern at Hensel Phelps
 - <b>- Sales Representative at Waterford Jewelers
 - <b>- Shift Leader at Dunkin Donuts
