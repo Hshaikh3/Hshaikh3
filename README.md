@@ -16,7 +16,7 @@ IT Student, IT Help Desk specialist and a Cybersecurity Enthusiast
 - <b>- [Wazuh SIEM](https://github.com/Hshaikh3/WazuhSiemSetup)
 - <b>- [Malware Analysis](https://github.com/Hshaikh3/Malware-analysis/blob/main/README.md)
 - <b>- [Windows Domain and Active Directory](https://github.com/Hshaikh3/Windows-Domain-and-Active-Directory-)
-- <b>- pfSense Firewall Home Lab</b>
+- <b>- [pfSense Firewall Home Lab](https://github.com/Hshaikh3/pfSense-Firewall-Home-Lab/tree/main)
   
 
 <h2>📚 Certifications</h2>
